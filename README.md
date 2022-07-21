@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @malkahvian
-- 👀 I’m interested in games
-- 🌱 I’m currently learning how to create a simple HTML project
+- 👋 Hi, I'm @malkahvian
+- 👀 I'm interested in games
+- 🌱 I'm currently learning how to create a simple HTML project
+- 🎮 I'm working on rhinogames project
 
 <!---
 malkahvian/malkahvian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
